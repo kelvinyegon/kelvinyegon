@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I'm Kelvin Yegon 👋
+Hi, I'm Kelvin Yegon 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+TypeScript;Building+Practical+Systems+for+Real-World+Problems)](https://git.io/typing-svg)
 
@@ -19,7 +19,6 @@ Hi, I'm Kelvin Yegon 👋
 
 </div>
 
----
 
 ##  Building Practical Systems for Real-World Problems
 
@@ -35,10 +34,9 @@ I enjoy turning real-world problems into useful digital solutions, including res
 -  Improving my JavaScript, React, Node.js, TypeScript, and database skills
 - Goal: Build systems that improve services, operations, and decision-making
 
----
 
 
----
+
 ## Technologies
 
 ###  Programming Languages
@@ -76,7 +74,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 </div>
 
----
+
 
 ### Frontend Development
 
@@ -108,7 +106,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 </div>
 
----
+
 
 ### ⚙️ Backend Development
 
@@ -135,7 +133,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 </div>
 
----
+
 
 ###  Databases and Backend Services
 
@@ -172,7 +170,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 </div>
 
----
+
 
 ### 🛠️ Development Tools
 
@@ -204,9 +202,9 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 </div>
 
----
 
-### 🚀 DevOps and Deployment
+
+### DevOps and Deployment
 
 <div align="center">
 
@@ -241,7 +239,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 </div>
 
----
+
 
 ##  Featured Projects
 
@@ -263,7 +261,7 @@ A web-based management system for replacing spreadsheet-based updates with a pra
 
 [View Repository](https://github.com/kelvinyegon/Institution-Connectivity-Manager)
 
----
+
 
 ##  GitHub Activity
 
@@ -275,7 +273,7 @@ A web-based management system for replacing spreadsheet-based updates with a pra
 
 </div>
 
----
+
 
 <div align="center">
 
