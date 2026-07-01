@@ -15,6 +15,8 @@ Hi, I'm Kelvin Yegon
 
 [![Kelvin Yegon LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Yegon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-yegon-42389941a)
 
+[![Kelvin Yegon Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kelvin-yegon-portfolio.vercel.app)
+
 [![Kelvin Yegon GitHub](https://img.shields.io/badge/GitHub-kelvinyegon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvinyegon)
 
 </div>
