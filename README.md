@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Kelvin Yegon 👋
+Hi, I'm Kelvin Yegon 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+TypeScript;Building+Practical+Systems+for+Real-World+Problems)](https://git.io/typing-svg)
 
 </div>
-### Full-Stack Developer | Practical Systems Builder
+ Full-Stack Developer | Practical Systems Builder
 
 ![Kelvin Yegon Profile Views](https://komarev.com/ghpvc/?username=kelvinyegon&label=PROFILE+VIEWS&style=for-the-badge)
 
@@ -33,107 +33,213 @@ I enjoy turning real-world problems into useful digital solutions, including res
 - Creating responsive and user-friendly interfaces
 -  Interested in authentication and role-based access
 -  Improving my JavaScript, React, Node.js, TypeScript, and database skills
-- 🎯Goal: Build systems that improve services, operations, and decision-making
+- Goal: Build systems that improve services, operations, and decision-making
 
 ---
 
-##  Technologies
 
-### Programming Languages
 ---
+## Technologies
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> Technologies
+###  Programming Languages
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-<br>JavaScript
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="70" height="70" alt="JavaScript" />
+<br><strong>JavaScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-</tr>
 
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-<br>Node.js
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript" width="70" height="70" alt="TypeScript" />
+<br><strong>TypeScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
-<br>Express.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
-<br>Supabase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-<br>Firebase
-</td>
-</tr>
 
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
-<br>Python
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML5" />
+<br><strong>HTML5</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-<br>Git
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS3" />
+<br><strong>CSS3</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-<br>Vercel
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python" />
+<br><strong>Python</strong>
 </td>
 </tr>
 </table>
 
 </div>
 
+---
 
+### Frontend Development
 
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="70" height="70" alt="React" />
+<br><strong>React</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="70" height="70" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vite" width="70" height="70" alt="Vite" />
+<br><strong>Vite</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="70" height="70" alt="Tailwind CSS" />
+<br><strong>Tailwind CSS</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="70" height="70" alt="Express.js" />
+<br><strong>Express.js</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+###  Databases and Backend Services
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql" width="70" height="70" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=supabase" width="70" height="70" alt="Supabase" />
+<br><strong>Supabase</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase" width="70" height="70" alt="Firebase" />
+<br><strong>Firebase</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🛠️ Development Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
+<br><strong>Git</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="70" height="70" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" alt="Visual Studio Code" />
+<br><strong>VS Code</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" />
+<br><strong>Postman</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🚀 DevOps and Deployment
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="70" height="70" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=githubactions" width="70" height="70" alt="GitHub Actions" />
+<br><strong>GitHub Actions</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vercel" width="70" height="70" alt="Vercel" />
+<br><strong>Vercel</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=netlify" width="70" height="70" alt="Netlify" />
+<br><strong>Netlify</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="70" height="70" alt="Linux" />
+<br><strong>Linux</strong>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
