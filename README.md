@@ -67,10 +67,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 <br><strong>CSS3</strong>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python" />
-<br><strong>Python</strong>
-</td>
+
 </tr>
 </table>
 
@@ -110,7 +107,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 
 
-### ⚙️ Backend Development
+### Backend Development
 
 <div align="center">
 
@@ -121,16 +118,10 @@ I enjoy turning real-world problems into useful digital solutions, including res
 <br><strong>Node.js</strong>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=express" width="70" height="70" alt="Express.js" />
-<br><strong>Express.js</strong>
-</td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" alt="FastAPI" />
-<br><strong>FastAPI</strong>
-</td>
-</tr>
+
+
+
 </table>
 
 </div>
@@ -158,14 +149,8 @@ I enjoy turning real-world problems into useful digital solutions, including res
 <br><strong>Supabase</strong>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase" width="70" height="70" alt="Firebase" />
-<br><strong>Firebase</strong>
-</td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" />
-<br><strong>MongoDB</strong>
+
 </td>
 </tr>
 </table>
@@ -174,7 +159,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 
 
 
-### 🛠️ Development Tools
+### Development Tools
 
 <div align="center">
 
@@ -195,10 +180,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 <br><strong>VS Code</strong>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
+
 </tr>
 </table>
 
@@ -211,11 +193,7 @@ I enjoy turning real-world problems into useful digital solutions, including res
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="70" height="70" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
+
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=githubactions" width="70" height="70" alt="GitHub Actions" />
@@ -227,15 +205,6 @@ I enjoy turning real-world problems into useful digital solutions, including res
 <br><strong>Vercel</strong>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=netlify" width="70" height="70" alt="Netlify" />
-<br><strong>Netlify</strong>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="70" height="70" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
 </tr>
 </table>
 
