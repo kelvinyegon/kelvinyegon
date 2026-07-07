@@ -2,7 +2,7 @@
 
 # Hi, I'm Kelvin Yegon 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=22D3EE\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+TypeScript;Building+Practical+Systems+for+Real-World+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=22D3EE\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+TypeScript;building+Practical+Systems+for+Real-World+Problems)](https://git.io/typing-svg)
 
 ### Full-Stack Developer | Practical Systems Builder
 
